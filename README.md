@@ -1,5 +1,14 @@
 ## Basic-Syntax-variable-data-types-for-c
 
+
+### what is programming?
+
+-Programming is the process of creating specific instructions—or code—that tell a computer how to perform tasks, solve problems, or automate processes.
+
+### how c language work?
+
+-C is a compiled, procedural programming language that works by translating human-readable source code into machine code that a computer's processor can execute directly
+
 ### why c?
 
 - Its too structured and mother of programming language
